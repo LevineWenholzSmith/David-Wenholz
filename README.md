@@ -1,3 +1,3 @@
-# David-Wenholz.vcf
+# david-wenholz.vcf
 
 vCard with contact info
